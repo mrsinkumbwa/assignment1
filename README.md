@@ -3,7 +3,7 @@
 **Course**: Artificial Intelligence (ARI711S)  
 **Department**: Software Engineering  
 **Faculty**: Computing and Informatics  
-**Due Date**: 04 May 2025 @23:59  
+**Due Date**: 05 May 2025 @23:59  
 **Marks**: 100  
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
