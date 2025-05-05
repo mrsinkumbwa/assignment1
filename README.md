@@ -1,4 +1,4 @@
-# AI Assignment 1: Search, Optimization, and Learning
+# AI Assignment 1: Search, Optimization, and Q Learning
 
 **Course**: Artificial Intelligence (ARI711S)  
 **Department**: Software Engineering  
