@@ -4,20 +4,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Step 1: Create a sample maze.txt if it doesn't exist
-maze_file = "maze.txt"
-if not os.path.exists(maze_file):
-    sample_maze = [
-        "##########",
-        "#A   #   #",
-        "# #  # # #",
-        "# #     B#",
-        "##########"
-    ]
-    with open(maze_file, "w") as f:
-        f.write("\n".join(sample_maze))
-    print("maze.txt file created.")
-else:
-    print("maze.txt already exists.")
 
 # Step 2: Node class
 class Node:
